@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 4d575bbe0658e0c41ab66c275df3832c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AimOrigin
+    100002: AimOrigin_end
+    100004: Armature
+    100006: Base
+    100008: Camera
+    100010: //RootNode
+    100012: EngiTurretArmature
+    100014: EngiTurretBody
+    100016: EngiTurretMesh
+    100018: footIK.1
+    100020: footIK.1_end
+    100022: footIK.1_end_end
+    100024: footIK.2
+    100026: footIK.2_end
+    100028: footIK.2_end_end
+    100030: footIK.3
+    100032: footIK.3_end
+    100034: footIK.3_end_end
+    100036: HandL
+    100038: HandL_end
+    100040: HandR
+    100042: HandR_end
+    100044: Head
+    100046: Head_end
+    100048: Head_end_end
+    100050: Hurtbox
+    100052: Hurtbox.001
+    100054: Hurtbox.001_end
+    100056: Hurtbox_end
+    100058: legBar.1
+    100060: legBar.2
+    100062: legBar.3
+    100064: legJoint.1
+    100066: legJoint.2
+    100068: legJoint.3
+    100070: Light
+    100072: mdlEngiTurret
+    100074: Model Base
+    100076: Muzzle
+    100078: Muzzle_end
+    100080: Neck
+    100082: TFSentry
+    100084: toe.1
+    100086: toe.1_end
+    100088: toe.1_end_end
+    100090: toe.2
+    100092: toe.2_end
+    100094: toe.2_end_end
+    100096: toe.3
+    100098: toe.3_end
+    100100: toe.3_end_end
+    400000: AimOrigin
+    400002: AimOrigin_end
+    400004: Armature
+    400006: Base
+    400008: Camera
+    400010: //RootNode
+    400012: EngiTurretArmature
+    400014: EngiTurretBody
+    400016: EngiTurretMesh
+    400018: footIK.1
+    400020: footIK.1_end
+    400022: footIK.1_end_end
+    400024: footIK.2
+    400026: footIK.2_end
+    400028: footIK.2_end_end
+    400030: footIK.3
+    400032: footIK.3_end
+    400034: footIK.3_end_end
+    400036: HandL
+    400038: HandL_end
+    400040: HandR
+    400042: HandR_end
+    400044: Head
+    400046: Head_end
+    400048: Head_end_end
+    400050: Hurtbox
+    400052: Hurtbox.001
+    400054: Hurtbox.001_end
+    400056: Hurtbox_end
+    400058: legBar.1
+    400060: legBar.2
+    400062: legBar.3
+    400064: legJoint.1
+    400066: legJoint.2
+    400068: legJoint.3
+    400070: Light
+    400072: mdlEngiTurret
+    400074: Model Base
+    400076: Muzzle
+    400078: Muzzle_end
+    400080: Neck
+    400082: TFSentry
+    400084: toe.1
+    400086: toe.1_end
+    400088: toe.1_end_end
+    400090: toe.2
+    400092: toe.2_end
+    400094: toe.2_end_end
+    400096: toe.3
+    400098: toe.3_end
+    400100: toe.3_end_end
+    2000000: Camera
+    2100000: models_buildables_sentry1_sentry1
+    2100002: matEngiTurret.001
+    4300000: TFSentry
+    4300002: EngiTurretMesh
+    9500000: //RootNode
+    10800000: Light
+    13700000: EngiTurretMesh
+    13700002: TFSentry
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

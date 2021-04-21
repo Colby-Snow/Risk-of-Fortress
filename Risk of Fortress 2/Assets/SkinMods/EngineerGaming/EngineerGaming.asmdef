@@ -1,0 +1,16 @@
+{
+    "name": "EngineerGaming",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Assembly-CSharp.refstub.dll",
+        "BepInEx.dll",
+        "MonoMod.RuntimeDetour.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": []
+}

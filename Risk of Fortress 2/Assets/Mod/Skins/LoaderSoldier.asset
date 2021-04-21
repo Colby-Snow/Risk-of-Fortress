@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be09e9a22eec4d4aa1b735607c1881c, type: 3}
+  m_Name: LoaderSoldier
+  m_EditorClassIdentifier: 
+  modDependency:
+    value: 
+    type: 0
+  config:
+    generateEnableConfig: 0
+    enableConfigDefaultValue: 1
+    isExpanded: 1
+  bodyName: LoaderBody
+  nameTokenLocalizations:
+  - language: en
+    value: Soldier
+  icon:
+    createFromColors: 0
+    sprite: {fileID: 21300000, guid: 8837ac6a04ec6934781d60fc53d549df, type: 3}
+    colors:
+      left:
+        serializedVersion: 2
+        rgba: 0
+      top:
+        serializedVersion: 2
+        rgba: 0
+      right:
+        serializedVersion: 2
+        rgba: 0
+      bottom:
+        serializedVersion: 2
+        rgba: 0
+    isExpanded: 1
+  unlockableName: 
+  baseSkins:
+  - accessType: 0
+    name: 
+    index: 0
+    isExpanded: 1
+  renderersSource: 0
+  meshReplacements:
+  - mesh: {fileID: 4300008, guid: 92247bc9fc064ca4b8b749110059d43a, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 2
+      isExpanded: 1
+  - mesh: {fileID: 4300006, guid: 92247bc9fc064ca4b8b749110059d43a, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 0
+      isExpanded: 1
+  gameObjectActivations: []
+  rendererInfos:
+  - defaultMaterial: {fileID: 2100000, guid: d8ce6cd85fe567342b8f0ce440227520, type: 2}
+    defaultShadowCastingMode: 0
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 2
+      isExpanded: 1
+  - defaultMaterial: {fileID: 2100000, guid: 24aa28da90d41e749bb3d0b029e6425f, type: 2}
+    defaultShadowCastingMode: 0
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 0
+      isExpanded: 1
+  minionSkinReplacements: []
+  projectileGhostReplacements: []

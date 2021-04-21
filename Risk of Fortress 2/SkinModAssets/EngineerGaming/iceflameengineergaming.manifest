@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 559466664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11e9846468533cd1db3bff34124264a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2636f03326329324e4a2690e2636360
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Engi/FullEngiMat.mat
+- Assets/SkinMods/EngineerGaming/Meshes/Engineer.mesh
+- Assets/SkinMods/EngineerGaming/Meshes/Soldier.mesh
+- Assets/SkinMods/EngineerGaming/Meshes/Scout.mesh
+- Assets/Resources/Soldier/Bot_Mat.mat
+- Assets/Resources/Scout/Icon_scout.jpg
+- Assets/Resources/Scout/ScoutMat.mat
+- Assets/Resources/Soldier/SoldierMat.mat
+- Assets/Resources/Engi/EngiIcon.jpg
+- Assets/SkinMods/EngineerGaming/Meshes/ScoutBat.mesh
+- Assets/SkinMods/EngineerGaming/Meshes/MechSoldier.mesh
+Dependencies: []

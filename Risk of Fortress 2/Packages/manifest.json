@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "com.kingenderbrine.rorskinbuilder": "https://github.com/KingEnderBrine/RoRSkinBuilder.git",
+    "com.unity.package-manager-ui": "2.0.13",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0"
+  },
+  "lock": {
+    "com.kingenderbrine.rorskinbuilder": {
+      "revision": "HEAD",
+      "hash": "3f4f85691d9166ac65cf8a7ebab7a80cb9a1c263"
+    }
+  }
+}

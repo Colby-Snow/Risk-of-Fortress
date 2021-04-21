@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be09e9a22eec4d4aa1b735607c1881c, type: 3}
+  m_Name: EngineerGamingSkin
+  m_EditorClassIdentifier: 
+  modDependency:
+    value: 
+    type: 0
+  config:
+    generateEnableConfig: 0
+    enableConfigDefaultValue: 1
+    isExpanded: 1
+  bodyName: EngiBody
+  nameTokenLocalizations:
+  - language: en
+    value: EngineerGaming
+  icon:
+    createFromColors: 0
+    sprite: {fileID: 21300000, guid: 5be0116b00aebda4a837340f3a73a3c1, type: 3}
+    colors:
+      left:
+        serializedVersion: 2
+        rgba: 255
+      top:
+        serializedVersion: 2
+        rgba: 43007
+      right:
+        serializedVersion: 2
+        rgba: 12287
+      bottom:
+        serializedVersion: 2
+        rgba: 43007
+    isExpanded: 1
+  unlockableName: 
+  baseSkins:
+  - accessType: 0
+    name: 
+    index: 0
+    isExpanded: 1
+  renderersSource: 0
+  meshReplacements:
+  - mesh: {fileID: 4300002, guid: 6b36eaf482b93484c862c63a866ebf05, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 4
+      isExpanded: 1
+  gameObjectActivations: []
+  rendererInfos:
+  - defaultMaterial: {fileID: 2100000, guid: 43bbd2f0e5abec44f976ba546d007403, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 4
+      isExpanded: 1
+  minionSkinReplacements: []
+  projectileGhostReplacements: []
